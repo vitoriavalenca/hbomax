@@ -1,4 +1,4 @@
-# Landing Page do HBO Max
+# HBO Max
 
 Este é um projeto de uma landing page do HBO Max criado utilizando apenas HTML e CSS. A landing page é uma representação simplificada e não oficial do HBO Max, com o intuito de demonstrar habilidades de desenvolvimento web.
 
@@ -7,8 +7,27 @@ Este é um projeto de uma landing page do HBO Max criado utilizando apenas HTML 
 - HTML5: Linguagem de marcação utilizada para estruturar a página.
 - CSS3: Linguagem de estilização utilizada para criar o layout e o design da página.
 
-!(https://micheleambrosio.github.io/hbomax/)
+## ✨ Features
+- Menu de navegação
+- Cabeçalho com animação gradiente
+- Cards com os planos de assinatura animados
+- Lista de filmes e séries disponíveis na plataforma
+- Formulário de login
+- Rodapé com links importantes
+- UI Responsiva
 
+## Temas abordados
+Recursos CSS presentes no projeto:
+
+- Fundamentos do CSS
+- Grid Layout
+- Flexbox
+- Responsividade
+- Pseudo-elementos
+- Pseudo-classes
+- Transformações 2D e 3D
+- Transições e animações
+- Tratamento de campos inválidos no formulário
 
 ## Customização
 
